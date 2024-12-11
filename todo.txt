@@ -1,0 +1,13 @@
+get the resum from user
+save the resume in to system
+pdf extracting
+resume parsing
+define skills
+define courses and videos
+
+
+postgres password-12345
+
+Admin-
+	user-Tharindu15270
+	password-12345
